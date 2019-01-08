@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: actuator-service
+Implementation-Version: 1.0
+Built-By: chen
+Implementation-Vendor-Id: com.github.qinxuewu
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_92
+Main-Class: ${start-class}
+
